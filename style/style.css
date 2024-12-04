@@ -130,3 +130,18 @@ header {
   background-position: top;
   background-size: cover;
 }
+
+/* Section One */
+.section-one {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 7rem;
+}
+
+.section-one-img {
+  background: url(/images/gesphotoss-1i9K55ni5Dk-unsplash.jpg);
+  background-position: top;
+  background-size: cover;
+}
